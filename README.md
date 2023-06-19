@@ -1,8 +1,11 @@
 # ANALYSIS OF GRAND DATA
 
 Author: Pablo Correa
+
 Date: 19 June 2023
+
 Required grandlib branch: dev_io_root
+
 
 The scripts in this repository serve to analyse GRAND data in ROOT format. They make use of the grandlib package, 
 but they are not included as a branch for grandlib at this time. The reason is that the scripts are for originally
