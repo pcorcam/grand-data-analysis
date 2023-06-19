@@ -1,6 +1,4 @@
-# ###################### #
-# ANALYSIS OF GRAND DATA #
-# ###################### #
+# ANALYSIS OF GRAND DATA
 
 Author: Pablo Correa
 Date: 19 June 2023
